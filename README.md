@@ -1,3 +1,3 @@
 # movies-api-filter-sort
 
-Practice task.
+8 hours Home assignment for a frontend developer position.
